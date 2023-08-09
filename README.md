@@ -1,0 +1,2 @@
+# String calculator 
+ for KATA
